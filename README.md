@@ -1,6 +1,8 @@
 # asteroid-game
 Un mic joc facut pentru un proiect la facultate folosing JavaScript
+
 Pilotezi o neveta reprezentata de un triunghi, pentru a o misca se folosesc tastele up, down, left, right.
+
 Pentru a roti naveta se folosesc tastele Z si C iar pentru a lansa o racheta este folosita tasta X.
 Asteroizii sunt reprezentati de un cerc, acestia au un numar de vieti ales aleator si se vor genera pe una din laturile canvas-ului cu o viteza pe axele x si y, toate acestea aleatoare.
 Coliziunea dintre asteroizi ii face sa isi schimbe directia de deplasare si coliziunea dintre asteroid si naveta scade vietile navetei. Dupa coliziunea cu un asteroid naveta are imunitate 4 secunde.
